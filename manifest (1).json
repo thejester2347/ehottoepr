@@ -1,0 +1,28 @@
+{
+  "name": "MAGIC BOX \u2014 Business Manager",
+  "short_name": "MAGIC BOX",
+  "description": "All-in-one business management: sales, inventory, multi-store, invoices.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1220",
+  "theme_color": "#1d4ed8",
+  "categories": [
+    "business",
+    "finance",
+    "productivity"
+  ],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
